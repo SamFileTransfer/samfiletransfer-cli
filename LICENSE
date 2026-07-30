@@ -1,0 +1,17 @@
+Copyright (c) 2026 SamFileTransfer
+
+This is the SamFileTransfer CLI — a client for connecting to the
+SamFileTransfer service at https://samfiletransfer.com.
+
+You're welcome to install it and use it, free of charge, to connect to a
+SamFileTransfer pool — for personal use or inside your own company.
+
+What we'd ask you not to do without checking with us first: redistribute,
+mirror, or resell the CLI anywhere other than the official npm package
+("samfiletransfer"). If you have a reason to want that, reach out first;
+we're easy to talk to.
+
+The CLI is provided "as is", with no warranty of any kind, express or
+implied. SamFileTransfer isn't liable for damages arising from its use.
+
+Questions: https://samfiletransfer.com/legal/contact
