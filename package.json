@@ -1,0 +1,29 @@
+{
+  "name": "samfiletransfer",
+  "version": "1.0.0",
+  "description": "Join an existing SamFileTransfer pool from a server (VPS/CI) as a WebRTC peer to upload, list, and download files.",
+  "type": "module",
+  "bin": {
+    "samfiletransfer": "./cli.mjs"
+  },
+  "files": [
+    "cli.mjs"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "author": "SamFileTransfer",
+  "keywords": [
+    "samfiletransfer",
+    "webrtc",
+    "file-transfer",
+    "cli",
+    "p2p"
+  ],
+  "homepage": "https://samfiletransfer.com",
+  "dependencies": {
+    "werift": "^0.20.0",
+    "ws": "^8.18.0"
+  }
+}
